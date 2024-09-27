@@ -44,7 +44,7 @@ else{
 {/*now this is navbar that will so in monitors , laptop desktop etc large screen */}
 <NavLink to={'/'} className='logo'>
 <i class="fa-solid fa-link logo-icon"></i>
-QuickLink
+HatURL
 </NavLink>
 
 
