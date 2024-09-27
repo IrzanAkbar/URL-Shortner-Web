@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <div className='footer-container '>
 
-      <p><i>Developed & Designed by</i> <b>@Anurag prajapati</b></p>
+      <p><i>Developed & Designed by</i> <b>@zannonly_</b></p>
 
       {/*my social accounts */}
       <div className='socials'>
@@ -18,7 +18,7 @@ const Footer = () => {
         <div onClick={() => window.open(instagram, '_blank')} className='social-icon'><i class="fa-brands fa-instagram"></i></div>
         <div onClick={() => window.open(tiktok, '_blank')} className='social-icon'><i class="fa-brands fa-tiktok"></i></div>
         <div onClick={() => window.open(whatsapp, '_blank')} className='social-icon'><i class="fa-brands fa-whatsapp"></i></div>
-        <div onClick={() => window.open('mailto:prajapatianurag73240@gmail.com')} className='social-icon'><i class="fa-solid fa-envelope"></i></div>
+        <div onClick={() => window.open('mailto:admin@irzan.us')} className='social-icon'><i class="fa-solid fa-envelope"></i></div>
 
       </div>
 
